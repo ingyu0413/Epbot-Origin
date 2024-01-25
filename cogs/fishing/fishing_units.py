@@ -1,5 +1,5 @@
 """
-    <fishing_unit.py>
+    <fishing_units.py>
     건설, 철거 등 시설 관련 명령어가 있습니다.
 """
 
