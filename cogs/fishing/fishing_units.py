@@ -653,7 +653,7 @@ class UnitCog(commands.Cog):
 
         if facility.code.startswith("_"):
             return await ctx.respond(
-                "어... 그 시설은 이 명령어로 철거할 수 없어!"
+                "어... 그 시설은 이 명령어로 건설할 수 없어!"
                 "\n`❗ 만약 업그레이드 하시려는 거라면 '/업그레이드' 명령어를 사용해 주세요.`"
             )
 
